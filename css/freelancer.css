@@ -80,11 +80,6 @@ section h2 {
   line-height: 2rem;
 }
 
-.my-links {
-  width: 15rem;
-
-}
-
 .scroll-to-top {
   z-index: 1042;
   right: 1rem;
@@ -391,4 +386,8 @@ a:focus, a:hover, a:active {
 #david {
   border-radius: 50%;
   width: 20em;
+}
+
+.my-links {
+  width: 15rem;
 }

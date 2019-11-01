@@ -369,6 +369,10 @@ a:focus, a:hover, a:active {
   border-color: #128f76;
 }
 
+.btn-primary:visited {
+  color: white;
+}
+
 .btn-secondary {
   background-color: #2C3E50;
   border-color: #2C3E50;
@@ -386,4 +390,8 @@ a:focus, a:hover, a:active {
 #david {
   border-radius: 50%;
   width: 20em;
+}
+
+.my-links {
+  width: 15rem;
 }

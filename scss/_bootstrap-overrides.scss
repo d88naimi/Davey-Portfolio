@@ -37,7 +37,11 @@ a {
     background-color: darken($primary, 10%);
     border-color: darken($primary, 10%);
   }
+  &:visited{
+    color: white;
+  }
 }
+
 
 .btn-secondary {
   background-color: $secondary;
@@ -57,4 +61,10 @@ a {
 #david {
   border-radius: 50%;
   width: 20em;
+}
+
+
+.my-links {
+  width: 15rem;
+
 }

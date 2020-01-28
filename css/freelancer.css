@@ -396,7 +396,7 @@ a:focus, a:hover, a:active {
   width: 15rem;
 }
 
-.btn {
+.btn-custom {
   display: inline-block;
   box-sizing: border-box;
   appearance: none;
@@ -418,7 +418,7 @@ a:focus, a:hover, a:active {
   font-weight: 700;
 }
 
-.btn:hover, .btn:focus {
+.btn-custom:hover, .btn-custom:focus {
   color: #fff;
   outline: 0;
 }
